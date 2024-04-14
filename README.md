@@ -5,8 +5,8 @@ The Shop app is a mobile e-commerce app built with Flutter
 And Android Studio. It provides a seamless shopping experience for users, allowing them to browse products from various categories. With intuitive navigation and a user-friendly interface, the Shop app aims to provide a convenient platform for buyers
 
 # Technology Stack
-Programming Language: Dart and Flutter
-Development Environment: Android Studio
+- Programming Language: Dart and Flutter
+- Development Environment: Android Studio
 
 
 ## Getting Started
