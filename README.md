@@ -6,11 +6,11 @@ And Android Studio. It provides a seamless shopping experience for users, allowi
 
 # Technology Stack
 Programming Language: Dart and Flutter
+Development Environment: Android Studio
 
 
 ## Getting Started
 This project is a starting point for a Flutter application.
-Development Environment: Android Studio
 
 
 https://github.com/Anan-Elayan/shoop_app/assets/99610614/a019c99d-2cad-46c8-b900-1fdc6d0d41e1
